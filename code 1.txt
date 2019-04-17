@@ -1,7 +1,7 @@
 #include <iostream.h>
 #include <stdio.h>
 
-
+edit
 float n,x;
 
 float fib(float n)
