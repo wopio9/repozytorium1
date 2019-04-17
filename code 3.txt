@@ -3,7 +3,7 @@
 #include <ctime>
 
 using namespace std;
-
+edit masteer 1
 int main(int argc, char *argv[])
 {
     
