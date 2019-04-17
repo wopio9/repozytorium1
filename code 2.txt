@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>    // pow()
-
+edit masteer 1
 /* rozklad_liczby - rozklada liczby na jednosci dziesiatki i setki oraz
    okresla forme gramatyczna przyrostka                                  */
 
